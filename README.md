@@ -1,4 +1,4 @@
-This mindmap was inspired by Cybersecurity Career Master Plan Authored by Dr. Gerald Auger, Jaclyn “Jax” Scott, Jonathan Helmus, Kim Nguyen, Heath "The Cyber Mentor" Adams
+This mindmap was inspired by Cybersecurity Career Master Plan Authored by Dr. Gerald Auger, Jaclyn “Jax” Scott, Jonathan Helmus, Kim Nguyen and Heath "The Cyber Mentor" Adams
 
 
 Please **NOTE:** if you wish to have the Cybersecurity mindmap md file locally and edit it , open it with https://obsidian.md/ with the **OBSIDIAN MINDMAP PLUGIN INSTALLED**. please kindly share your edited md file with me :). THANKYOU
