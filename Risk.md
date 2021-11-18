@@ -1,0 +1,1 @@
+Risk = Threat  x  Vulnerability
